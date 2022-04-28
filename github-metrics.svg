@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3451" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3158" class="">
     <defs>
         <style/>
     </defs>
@@ -36,20 +36,20 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -100,7 +100,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            582 issue comments
+                            584 issue comments
                         </div>
                     </section>
                     <section>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    297 MB used
+                                    298 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -563,7 +563,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
                             </svg>
-                            Current streak 8 days
+                            Current streak 9 days
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -587,7 +587,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~2.19
+                            Average per day at ~2.18
                         </div>
                     </section>
                 </div>
@@ -1585,6 +1585,11 @@
                                 <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,6.333333333333333 0,5.333333333333333 z"/>
                                 <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,5.333333333333333 1.7,6.333333333333333 z"/>
                             </g>
+                            <g transform="translate(-5.1, 8.666666666666666)">
+                                <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.3333333333333335 0,1.3333333333333333 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3333333333333333 1.7,2.3333333333333335 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -1601,69 +1606,64 @@
                         <h3>Total stargazers</h3>
                         <div class="chart-bars">
                             <div class="entry">
-                                <span class="value">257</span>
+                                <span class="value">317</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                14
+                                15
                                 <div class="bottom">Apr.</div>
                             </div>
                             <div class="entry">
-                                <span class="value">317</span>
-                                <div class="bar" style="height: 19.772727272727273px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                15
-                            </div>
-                            <div class="entry">
                                 <span class="value">375</span>
-                                <div class="bar" style="height: 36.46969696969697px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 28.73809523809524px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 16
                             </div>
                             <div class="entry">
                                 <span class="value">384</span>
-                                <div class="bar" style="height: 39.06060606060606px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 32.80952380952381px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 17
                             </div>
                             <div class="entry">
                                 <span class="value">393</span>
-                                <div class="bar" style="height: 41.65151515151515px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 36.88095238095239px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 18
                             </div>
                             <div class="entry">
                                 <span class="value">400</span>
-                                <div class="bar" style="height: 43.666666666666664px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 40.04761904761905px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 19
                             </div>
                             <div class="entry">
                                 <span class="value">402</span>
-                                <div class="bar" style="height: 44.24242424242424px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 40.952380952380956px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 20
                             </div>
                             <div class="entry">
                                 <span class="value">405</span>
-                                <div class="bar" style="height: 45.1060606060606px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 42.30952380952381px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 21
                             </div>
                             <div class="entry">
                                 <span class="value">408</span>
-                                <div class="bar" style="height: 45.96969696969697px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 43.66666666666667px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 22
                             </div>
                             <div class="entry">
                                 <span class="value">409</span>
-                                <div class="bar" style="height: 46.257575757575765px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 44.11904761904762px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 23
                             </div>
                             <div class="entry">
                                 <span class="value">414</span>
-                                <div class="bar" style="height: 47.696969696969695px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 46.38095238095238px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 24
                             </div>
                             <div class="entry">
                                 <span class="value">416</span>
-                                <div class="bar" style="height: 48.272727272727266px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 47.285714285714285px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 25
                             </div>
                             <div class="entry">
                                 <span class="value">419</span>
-                                <div class="bar" style="height: 49.13636363636364px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 48.642857142857146px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 26
                             </div>
                             <div class="entry">
@@ -1671,21 +1671,21 @@
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 27
                             </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                28
+                            </div>
                         </div>
                     </section>
                     <section class="column chart chartist">
                         <h3>New stargazers per day</h3>
                         <div class="chart-bars">
                             <div class="entry">
-                                <span class="value">+3</span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                14
-                                <div class="bottom">Apr.</div>
-                            </div>
-                            <div class="entry">
                                 <span class="value">+60</span>
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 15
+                                <div class="bottom">Apr.</div>
                             </div>
                             <div class="entry">
                                 <span class="value">+58</span>
@@ -1747,6 +1747,11 @@
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 27
                             </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                28
+                            </div>
                         </div>
                     </section>
                 </div>
@@ -1760,6 +1765,48 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#128 rewrite: "v2"</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by ThaUnknown in <span class="repo">libass/JavascriptSubtitlesOctopus</span></div>
+                                    <div class="comment">
+                                        <i>There must be “no temporary user-visible behaviour changes” (and permanent changes need to be justified). Start from the existing code and change it one step to be review- and understandable.</i>
+                                        I don't see how that can happen with a full rewrite of the JS part of the library
+to put it simply the current js is close to unmaintainable, be because it was made from a fork of a fork of a library, you even have some of the original libassjs code in here, taking the code apart like that to make massive changes will take weeks
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#128 rewrite: "v2"</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by ThaUnknown in <span class="repo">libass/JavascriptSubtitlesOctopus</span></div>
+                                    <div class="comment">
+                                        <i>The patch requirements have been explained before and serve to ensure long-term maintainability and reducing the chance of new bugs slipping in. Reducing them to "no broken commits" is leaving out several key points. Most notably this fails at not bundling logically unrelated changes and proper documentation. Some of the listed changes also appear to have API implications. The list in OP with pointers to individual code section strongly indicates, that a separation is very much possible.</i>
+                                        while separation is possible, this means loosing functionality in the initial PRs as i didn't modify JSO, but deleted all of it and started from 0, for my own sanity
+are you okay with PRs like that?
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -2064,168 +2111,6 @@ logs from WASM, we must output errors to stderr and otherwise stdout.</div>
                                         <div class="sha">#42fc76a</div>
                                         <div class="message">rewrite: v2</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 25 commits in
-                                        <span class="repo">ThaUnknown/JavascriptSubtitlesOctopus</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b2af899</div>
-                                        <div class="message">c++: use size_t for buffer size</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d0e5f21</div>
-                                        <div class="message">c++: refactor buffer into a C++ class
-
-Cherry-picked from: https://github.com/jellyfin/JavascriptSubtitlesOctopus/commit/6d3a5c731f52ea84282e40bed3014ef95220146a
-
-[part of] Restructure renderBlend so it can return multiple pieces; JS side not ready yet
-Cherry-picked from: https://github.com/jellyfin/JavascriptSubtitlesOctopus/commit/0cc2bf8556f4936a483c8a027e0b2ff2774ed9d1
-
-Move private members to the top.
-Renamed take to get_rawbuf for clarity.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#260573e</div>
-                                        <div class="message">Bump libass to newest master
-
-Relevant improvements:
- - Fix a violation of FreeType API which caused issues
-   in newer FreeType version (currently only on MS Windows)
- - Fix a rare and minor memory leak
- - Higher quality outline blending
- - Significantly faster hash-function (wyhash)
- - Some RTL- and BiDi-compatibility fixes
- - Compatibility fix for empty clips
- - Support for non-Unicode fonts, which depends on iconv
-   (with emscripten’s built-in iconv probably only SHIFT-JIS)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#85400a5</div>
-                                        <div class="message">Bump FriBidi</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f2190d5</div>
-                                        <div class="message">Bump expat
-
-New releases contain documented security fixes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a1f1cc4</div>
-                                        <div class="message">editorconfig: fix syntax error</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9dee522</div>
-                                        <div class="message">ci/gha: limit push events to master and ci branch
-
-To avoid superfluous runs from PRs using branches in the main repo.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#46ae92d</div>
-                                        <div class="message">Allow to compile CPP-file alone
-
-Serves no purposes but to quickly check
-for compiler warnings and errors.
-
-[part of] Rework buffer into C++ class
-Cherry-picked from: https://github.com/jellyfin/JavascriptSubtitlesOctopus/commit/6d3a5c731f52ea84282e40bed3014ef95220146a</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b122d1d</div>
-                                        <div class="message">ci/gha: add workflow to cancel previous runs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ce1de11</div>
-                                        <div class="message">add .editorconfig</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#526cee6</div>
-                                        <div class="message">update package.json with new links</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6a86bfb</div>
-                                        <div class="message">fix brotli repo url in .gitmodules</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#959bb71</div>
-                                        <div class="message">Add webidl_binder patches for future reference</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#071f658</div>
-                                        <div class="message">WebIDL: Implement Owner Extended Attribute, fix #77
-
-Currently the ensureCache create a temporary pointer that will
-transfer the value to the WASM/C part and recycle it with to use in the
-next value, but since the libass struct pointers are owned by the
-library, the pointers can't be recycled or freed or can lead into
-an undefined behavior.
-
-This configure the binder to tranfer the pointer ownership instead of
-recycle it.
-
-To avoid creating complex code, I decided to fix it in the webidl
-binder.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e8a66b5</div>
-                                        <div class="message">WebIDL: Update webidl_binder from upstream
-
-Use as base this files:
-https://github.com/emscripten-core/emscripten/blob/f36f9fcaf83db93e6a6d0f0cdc47ab6379ade139/third_party/WebIDL.py
-https://github.com/emscripten-core/emscripten/blob/c834ef7d69ccb4100239eeba0b0f6573fed063bc/tools/tempfiles.py
-https://github.com/emscripten-core/emscripten/blob/f36f9fcaf83db93e6a6d0f0cdc47ab6379ade139/tools/webidl_binder.py</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e7ee577</div>
-                                        <div class="message">add requestVideoFrameCallback polyfill</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bc6a3f3</div>
-                                        <div class="message">remove const from screen, remove switch statement for onmessage</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#239297e</div>
-                                        <div class="message">close buffers after draw</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#72c82d5</div>
-                                        <div class="message">jsdoc</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4b6a535</div>
-                                        <div class="message">rewrite: v2</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#89 Feature request: Support streaming input data</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by rcombs in <span class="repo">libass/JavascriptSubtitlesOctopus</span></div>
-                                    <div class="comment">hm, that makes sense
-I assumed that's how EBML was formatted, as all the EBML parsing libraries that are out there for JS format things quite nicely, but I admit it's my oversight/laziness that I didn't check that
-the style name mapping is kind of bothersome, as the styles and their ID's can currently be exported from libass using the getStyles function, but you can't check when the styles have been parsed, so you'd often call it before libass finishes parsing the   header
-I admit there's no argument against this, as it's functionality would be a bit different than createEvent's</div>
                                 </div>
                             </section>
                         </div>
@@ -2753,7 +2638,7 @@ I admit there's no argument against this, as it's functionality would be a bit d
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Apr 2022, 01:02:01 (timezone Europe/Warsaw) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 28 Apr 2022, 02:35:28 (timezone Europe/Warsaw) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
