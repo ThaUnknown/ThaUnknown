@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3158" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2515" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.s .side{background-color:#eb355e26}.contribution.a .side{background-color:#e7bd6926}.contribution.b .side{background-color:#9e91ff26}.contribution.c .side{background-color:#58a6ff26}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .entry .empty{width:100%;text-align:center}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment,.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.activity .details&gt;.comment{margin-top:6px;border-left:3px solid #777777b2;padding-left:6px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.project .description{margin-left:37px;max-height:38px;font-size:12px;white-space:normal}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.s .side{background-color:#eb355e26}.contribution.a .side{background-color:#e7bd6926}.contribution.b .side{background-color:#9e91ff26}.contribution.c .side{background-color:#58a6ff26}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,code,span.code{background-color:#7777771f;border-radius:6px;color:#777;padding:1px 5px;font-size:80%;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .code,span.code{margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .details&gt;.comment,.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.activity .details&gt;.comment{margin-top:6px;border-left:3px solid #777777b2;padding-left:6px}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.project .description{margin-left:37px;max-height:38px;font-size:12px;white-space:normal}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{display:inline-block}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -100,7 +100,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            584 issue comments
+                            585 issue comments
                         </div>
                     </section>
                     <section>
@@ -234,14 +234,14 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="17.11111111111111" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="17.11111111111111" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="17.11111111111111" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="17.11111111111111" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="17.11111111111111" y="0" width="202.8888888888889" height="8" fill="#8957e5"/>
-                            <rect mask="url(#issues-bar)" x="220.00000000000003" y="0" width="0" height="8" fill="#d2a8ff"/>
-                            <rect mask="url(#issues-bar)" x="220.00000000000003" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="220.00000000000003" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="17.016574585635357" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="17.016574585635357" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="17.016574585635357" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="17.016574585635357" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="17.016574585635357" y="0" width="202.98342541436463" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
+                            <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#c9d1d9"/>
                         </svg>
                         <div class="followup legend field fill-width">
                             <div class="field">
@@ -256,7 +256,7 @@
                                     <path fill="#8957e5" d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
                                     <path fill="#8957e5" fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                 </svg>
-                                <span class="no-wrap">166 <small>closed</small></span>
+                                <span class="no-wrap">167 <small>closed</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -458,7 +458,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        152
+                                        153
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1769,6 +1769,41 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Closed
+                                        <span class="issue">#165 [Feature Request]: A way to get rid of the anime from the bottom-right side of the screen when done watching it.</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by therealsbeve in <span class="repo">ThaUnknown/miru</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#165 [Feature Request]: A way to get rid of the anime from the bottom-right side of the screen when done watching it.</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by therealsbeve in <span class="repo">ThaUnknown/miru</span></div>
+                                    <div class="comment">hm, need to add "read faq" to the checklist,..
+no. read faq</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                                     </svg>
                                     <div class="content">
@@ -1821,296 +1856,6 @@ are you okay with PRs like that?
                                 <div class="details">
                                     <div>opened by ThaUnknown in <span class="repo">libass/JavascriptSubtitlesOctopus</span></div>
                                     <div class="comment">additionally this PR is a fix to #46 [as the renderer won't request more subtitles under load], partial fix to #72 [perf optimisations], full fix to #97 [as onDemandRender doesn't use event listeners, and destory() removes listeners], partial fix to 1001432683[as you can use _demandRender, omitting JSO's render loop], and partial fix to #8 [only for ondemand render]</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 29 commits in
-                                        <span class="repo">ThaUnknown/JavascriptSubtitlesOctopus</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">v2</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e07a997</div>
-                                        <div class="message">c++: fix zero-size bugs in buffer resize
-
-malloc and realloc may both return NULL in absence of errors
-if the size is  0. Additionally realloc acts as a free in this
-case, meaning the later `return NULL;` will leave dangling
-pointers in the object.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d6192c1</div>
-                                        <div class="message">c++: use size_t for buffer size</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c0b3640</div>
-                                        <div class="message">c++: refactor buffer into a C++ class
-
-Cherry-picked from: https://github.com/jellyfin/JavascriptSubtitlesOctopus/commit/6d3a5c731f52ea84282e40bed3014ef95220146a
-
-[part of] Restructure renderBlend so it can return multiple pieces; JS side not ready yet
-Cherry-picked from: https://github.com/jellyfin/JavascriptSubtitlesOctopus/commit/0cc2bf8556f4936a483c8a027e0b2ff2774ed9d1
-
-Move private members to the top.
-Renamed take to get_rawbuf for clarity.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a89dcd4</div>
-                                        <div class="message">Bump libass to newest master
-
-Relevant improvements:
- - Fix a violation of FreeType API which caused issues
-   in newer FreeType version (currently only on MS Windows)
- - Fix a rare and minor memory leak
- - Higher quality outline blending
- - Significantly faster hash-function (wyhash)
- - Some RTL- and BiDi-compatibility fixes
- - Compatibility fix for empty clips
- - Support for non-Unicode fonts, which depends on iconv
-   (with emscripten’s built-in iconv probably only SHIFT-JIS)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1829aaa</div>
-                                        <div class="message">Bump FriBidi</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#83afbf1</div>
-                                        <div class="message">Bump expat
-
-New releases contain documented security fixes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#449669a</div>
-                                        <div class="message">editorconfig: fix syntax error</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ba9b770</div>
-                                        <div class="message">ci/gha: limit push events to master and ci branch
-
-To avoid superfluous runs from PRs using branches in the main repo.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c7cb74b</div>
-                                        <div class="message">Allow to compile CPP-file alone
-
-Serves no purposes but to quickly check
-for compiler warnings and errors.
-
-[part of] Rework buffer into C++ class
-Cherry-picked from: https://github.com/jellyfin/JavascriptSubtitlesOctopus/commit/6d3a5c731f52ea84282e40bed3014ef95220146a</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4f768a5</div>
-                                        <div class="message">ci/gha: add workflow to cancel previous runs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fd1dc8f</div>
-                                        <div class="message">add .editorconfig</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c9c0f86</div>
-                                        <div class="message">update package.json with new links</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dd9927e</div>
-                                        <div class="message">fix brotli repo url in .gitmodules</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0b75fa2</div>
-                                        <div class="message">Merge pull request #122 from TFSThiagoBR98/fix-77
-
-Fix Events and Styles String Mutation, closes #77</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3102398</div>
-                                        <div class="message">Add webidl_binder patches for future reference</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#af1dc9a</div>
-                                        <div class="message">WebIDL: Implement Owner Extended Attribute, fix #77
-
-Currently the ensureCache create a temporary pointer that will
-transfer the value to the WASM/C part and recycle it with to use in the
-next value, but since the libass struct pointers are owned by the
-library, the pointers can't be recycled or freed or can lead into
-an undefined behavior.
-
-This configure the binder to tranfer the pointer ownership instead of
-recycle it.
-
-To avoid creating complex code, I decided to fix it in the webidl
-binder.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d1072f3</div>
-                                        <div class="message">Refactor getStyles and getEvents
-
-Add new function fetchFromWorker with callback to allow fetch the response from worker
-Add callbacks to getStyles and getEvents functions</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#882fa5a</div>
-                                        <div class="message">c++: prefix log messages with jso
-
-This makes it easier to pick them out in the browser console
-and is less confusing then prefixing with libass as some did before.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dfada30</div>
-                                        <div class="message">c++: distinguish errors from other logs
-
-Errors and normal logs are normaly logged differently in js and also
-displayed differently in browser consoles. For this to work for our
-logs from WASM, we must output errors to stderr and otherwise stdout.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e6eee9e</div>
-                                        <div class="message">c++: add missing newline in printf message</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 27 commits in
-                                        <span class="repo">ThaUnknown/JavascriptSubtitlesOctopus</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">v2</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#94005a2</div>
-                                        <div class="message">Bump libass to newest master
-
-Relevant improvements:
- - Fix a violation of FreeType API which caused issues
-   in newer FreeType version (currently only on MS Windows)
- - Fix a rare and minor memory leak
- - Higher quality outline blending
- - Significantly faster hash-function (wyhash)
- - Some RTL- and BiDi-compatibility fixes
- - Compatibility fix for empty clips
- - Support for non-Unicode fonts, which depends on iconv
-   (with emscripten’s built-in iconv probably only SHIFT-JIS)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9e14133</div>
-                                        <div class="message">Bump FriBidi</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4a96f6d</div>
-                                        <div class="message">Bump expat
-
-New releases contain documented security fixes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ffa256f</div>
-                                        <div class="message">editorconfig: fix syntax error</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c22ec21</div>
-                                        <div class="message">ci/gha: limit push events to master and ci branch
-
-To avoid superfluous runs from PRs using branches in the main repo.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#de712a3</div>
-                                        <div class="message">Allow to compile CPP-file alone
-
-Serves no purposes but to quickly check
-for compiler warnings and errors.
-
-[part of] Rework buffer into C++ class
-Cherry-picked from: https://github.com/jellyfin/JavascriptSubtitlesOctopus/commit/6d3a5c731f52ea84282e40bed3014ef95220146a</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3e1caef</div>
-                                        <div class="message">ci/gha: add workflow to cancel previous runs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3df42ce</div>
-                                        <div class="message">add .editorconfig</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4c8d433</div>
-                                        <div class="message">update package.json with new links</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3a2523c</div>
-                                        <div class="message">fix brotli repo url in .gitmodules</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fbfe191</div>
-                                        <div class="message">Add webidl_binder patches for future reference</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#11e5a9d</div>
-                                        <div class="message">WebIDL: Implement Owner Extended Attribute, fix #77
-
-Currently the ensureCache create a temporary pointer that will
-transfer the value to the WASM/C part and recycle it with to use in the
-next value, but since the libass struct pointers are owned by the
-library, the pointers can't be recycled or freed or can lead into
-an undefined behavior.
-
-This configure the binder to tranfer the pointer ownership instead of
-recycle it.
-
-To avoid creating complex code, I decided to fix it in the webidl
-binder.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1f25a71</div>
-                                        <div class="message">c++: prefix log messages with jso
-
-This makes it easier to pick them out in the browser console
-and is less confusing then prefixing with libass as some did before.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d899a06</div>
-                                        <div class="message">c++: distinguish errors from other logs
-
-Errors and normal logs are normaly logged differently in js and also
-displayed differently in browser consoles. For this to work for our
-logs from WASM, we must output errors to stderr and otherwise stdout.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#431fa11</div>
-                                        <div class="message">c++: add missing newline in printf message</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b87ed35</div>
-                                        <div class="message">add requestVideoFrameCallback polyfill</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#87a412a</div>
-                                        <div class="message">remove const from screen, remove switch statement for onmessage</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9d20faf</div>
-                                        <div class="message">close buffers after draw</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#149ad63</div>
-                                        <div class="message">jsdoc</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#42fc76a</div>
-                                        <div class="message">rewrite: v2</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -2638,7 +2383,7 @@ logs from WASM, we must output errors to stderr and otherwise stdout.</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Apr 2022, 06:55:57 (timezone Europe/Warsaw) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 28 Apr 2022, 07:32:27 (timezone Europe/Warsaw) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
