@@ -1869,7 +1869,7 @@ additionally i think this needs to be made inline with the http server used by i
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="47.34873374401094 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="47.3911704312115 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -2074,7 +2074,7 @@ additionally i think this needs to be made inline with the http server used by i
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 88.5k out of 307m repositories</span>
+                                    <span class="gh">ranked 88.6k out of 307m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 361 stars</div>
                             </div>
@@ -2402,7 +2402,7 @@ additionally i think this needs to be made inline with the http server used by i
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 May 2022, 14:10:04 (timezone Europe/Warsaw) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 17 May 2022, 15:32:07 (timezone Europe/Warsaw) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
