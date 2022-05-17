@@ -2074,7 +2074,7 @@ additionally i think this needs to be made inline with the http server used by i
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 89.1k out of 306m repositories</span>
+                                    <span class="gh">ranked 89.2k out of 306m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 358 stars</div>
                             </div>
@@ -2402,7 +2402,7 @@ additionally i think this needs to be made inline with the http server used by i
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 May 2022, 02:27:27 (timezone Europe/Warsaw) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 17 May 2022, 04:52:24 (timezone Europe/Warsaw) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
