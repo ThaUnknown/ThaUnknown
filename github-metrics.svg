@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2566" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2565" class="">
     <defs>
         <style/>
     </defs>
@@ -100,7 +100,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            627 issue comments
+                            628 issue comments
                         </div>
                     </section>
                     <section>
@@ -1753,6 +1753,27 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#178 fix: ThaUnknown#177</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by Muril-o in <span class="repo">ThaUnknown/miru</span></div>
+                                    <div class="comment">
+                                        keep in mind set is exported, and imported in non svelte, js files which means you'd need to update all of those files to use the store too, I think the best way is to add the
+                                        <code>off</code>
+                                        option for the eventemitter which  the IPC is, in the preload file
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
@@ -1827,31 +1848,6 @@ the simple IPC I implemented doesn't provide any functionality to remove event l
                                     <div class="comment">
                                         <i>My post was about "linked list struct".</i>
                                         yes, and you suggested to instead blend the images, and still re-assemble them into a linked list? which is again, not what this PR is about. all this is, is simply moving 10 JS LOC to WASM
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#138 feat: perf: WASM decode</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by ThaUnknown in <span class="repo">libass/JavascriptSubtitlesOctopus</span></div>
-                                    <div class="comment">
-                                        <i>
-                                            <i>What else do you suggest? the blend render result isn't a linked list, this needs to be a linked list</i>
-                                            jellyfin#9 This is (original)
-                                            <code>smart-blend</code>
-                                            part in our fork.
-                                        </i>
-                                        this is STILL WASM blending, this PR doesn't do ANYTHING blending related, its purely bitmap decoding/conversion, this is for the alternative render mode, which uses JS canvas functions to blend the images, rather than doing it on the CPU
                                     </div>
                                 </div>
                             </section>
@@ -2411,7 +2407,7 @@ the simple IPC I implemented doesn't provide any functionality to remove event l
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 May 2022, 15:30:57 (timezone Europe/Warsaw) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 31 May 2022, 16:07:11 (timezone Europe/Warsaw) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
