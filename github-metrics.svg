@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            760 Commits
+                            761 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -159,7 +159,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
-                                    83 Releases
+                                    84 Releases
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    157k added, 124k removed
+                                    138k added, 124k removed
                                 </div>
                             </section>
                             <section>
@@ -327,14 +327,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="293.2472602458532" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="293.2472602458532" y="0" width="79.88178842591499" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="373.1290486717682" y="0" width="44.82252090971408" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="417.95156958148226" y="0" width="31.172822534594488" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="449.12439211607676" y="0" width="4.909524976580373" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="454.03391709265713" y="0" width="2.5124189332593523" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="456.5463360259165" y="0" width="1.8235460237642338" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="458.3698820496807" y="0" width="1.6301179503192906" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="250.7471882606775" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="250.7471882606775" y="0" width="134.95939197126123" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="385.70658023193874" y="0" width="38.33744169551917" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="424.0440219274579" y="0" width="26.654972306119568" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="450.6989942335775" y="0" width="4.1995820985863315" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="454.89857633216377" y="0" width="2.148296228648506" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="457.0468725608123" y="0" width="1.5592610745603246" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="458.6061336353726" y="0" width="1.3938663646273606" height="8" fill="#6E4C13"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -555,7 +555,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 59.1 characters per line of code written</li>
+                        <li>Has approximately 59.0 characters per line of code written</li>
                         <li>Mostly pushes code around 22:00</li>
                         <li>Mostly active on Thursday</li>
                     </ul>
@@ -1765,6 +1765,26 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">ThaUnknown/miru</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ab7341e</div>
+                                        <div class="message">perf: custom CSS framework</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">ThaUnknown/jassub</span>
                                     </div>
                                 </div>
@@ -1828,27 +1848,6 @@
                                     <div class="commit">
                                         <div class="sha">#f59e532</div>
                                         <div class="message">rebrand</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">ThaUnknown/quartermoon</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#869559d</div>
-                                        <div class="message">feat: automatically apply CSS to :invalid forms
-fix: allow for multiple switch/checkbox/radio elements in 1 container</div>
                                     </div>
                                 </div>
                             </section>
@@ -2408,7 +2407,7 @@ fix: allow for multiple switch/checkbox/radio elements in 1 container</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Jun 2022, 15:16:07 (timezone Europe/Warsaw) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 18 Jun 2022, 16:03:08 (timezone Europe/Warsaw) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
