@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2519" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3162" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            776 Commits
+                            779 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    181k added, 143k removed
+                                    173k added, 136k removed
                                 </div>
                             </section>
                             <section>
@@ -327,14 +327,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="206.2860794684178" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="206.2860794684178" y="0" width="163.62912932714212" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="369.9152087955599" y="0" width="46.471764370927424" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="416.38697316648734" y="0" width="32.31735003383974" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="448.7043232003271" y="0" width="5.0917090859142515" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="453.7960322862413" y="0" width="2.6235005479813363" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="456.41953283422265" y="0" width="1.8904985292045517" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="458.31003136342724" y="0" width="1.6899686365727806" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="206.48621520234624" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="206.48621520234624" y="0" width="163.7878799126123" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="370.2740951149586" y="0" width="46.51685059629606" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="416.79094571125466" y="0" width="32.34870385366274" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="449.13964956491736" y="0" width="5.0966489875183045" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="454.2362985524357" y="0" width="2.6260458298005696" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="456.86234438223624" y="0" width="1.691608219400028" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="458.55395260163624" y="0" width="1.4460473983637239" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -375,15 +375,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Makefile
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#6E4C13" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Assembly
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Makefile
                     </div>
                 </div>
             </section>
@@ -550,7 +550,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 148 commits)</small>
+                    <small class="h-details">(computed from last 153 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -1769,17 +1769,153 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Pushed 23 commits in
                                         <span class="repo">Kirdow/jassub</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4f4aee2</div>
-                                        <div class="message">Update JASSUB.cpp
+                                        <div class="sha">#18a53fd</div>
+                                        <div class="message">Bump libass
 
-wtf</div>
+A new version (0.16.0) was released.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d95ddf5</div>
+                                        <div class="message">cosmetic/make: drop superfluous default target make</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e2e3158</div>
+                                        <div class="message">cosmetic/make: drop GLOBAL_* variables in favour of only *
+
+The latter is required as it's picked up by buildsystems,
+the former is only used once by us and can easily be replaced
+by the latter.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e341e1b</div>
+                                        <div class="message">make: put uniform comments before dependency builds</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4370e7b</div>
+                                        <div class="message">cosmetic/make: remove comment with unused flags
+
+They appear to have been commented out since the first public release
+and it's not clear what they were intended for or if they'd even still
+work with current emscripten.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e3e0003</div>
+                                        <div class="message">make: split off license extraction
+
+As an intermediate measure improving build times with multiple jobs
+until the toplevel Makefile can properly handle parallelism.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#89e899a</div>
+                                        <div class="message">make: adjust number of jobs to available threads
+
+Previously some builds used a hardcoded number of 8 and others
+didn't set it at all falling back to a single threaded build.
+
+This still isn't ideal though. What we actually want is to fix up
+or Makefile to allow builders to pass the number of jobs to the toplevel
+and then a buildserver can distribute the available jobs across the
+targets allowing inter-target parallelism.
+For now, this already is a clear improvement.
+
+The fribidi build appears to have a borked dependency on generated
+sources when running from a subdir, which resulted in parallel builds
+sometimes failing. To fix this the relevant header is now generated
+explicitly before other build steps.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#85817b3</div>
+                                        <div class="message">make: macroise configuration
+
+To be more concise and to keep config flags from drifting apart
+(they already varied slightly between submodules).</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0559838</div>
+                                        <div class="message">make: export CFLAGS globally
+
+autoconf and cmake will pick up the variable from the environment.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e88b164</div>
+                                        <div class="message">make: remove superfluous dependency disables
+
+emscripten already sets PKG_CONFIG_LIBDIR preventing non-wasm libraries
+installed in the system to be detected (and it doesn't provide a way for
+us to set _LIBDIR ourselves).</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7823300</div>
+                                        <div class="message">make: export pkg-config path globally</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b91a88e</div>
+                                        <div class="message">make: macroise source setup</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ab214a6</div>
+                                        <div class="message">make: use regular install for brotli
+
+The last released version of brotli we use, blocks the install target
+when building with emscripten, which is why we currently need to
+manually copy files of interest to their installed location.
+This adds complexity and is prone to failure with future changes.
+Upstream no longer blocks installations with emscripten since
+  https://github.com/google/brotli/commit/ce222e317e36aa362e83fc50c7a6226d238e03fd
+from 23.06.2021.
+
+We could just bump the brotli version to latest master, but then our
+already existing patch would need updating and from a quick look
+it appears as if other things changed as well which might not all be
+compatible with our baseline target out of the box. AN eventual new
+release with release notes will hopefully detail the changes in a
+more accessible form.
+As a safe option, just backport the upstream commit as another patch.
+
+We still need to normalise the static library names though.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1ad1434</div>
+                                        <div class="message">make: drop redundant extern for fribidi</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e240038</div>
+                                        <div class="message">make: remove no-op macro define
+
+Possibly it did something in older versions, in current ones only
+the compiler set __EMSCRIPTEN__ macro is used in checks.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cd33db7</div>
+                                        <div class="message">make: disable pthreads in global flags</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2348874</div>
+                                        <div class="message">make: mark non-file targets as .PHONY</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6287102</div>
+                                        <div class="message">cosmetic/make: move server target down
+
+So that all git-* targets are grouped together.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fa25ef0</div>
+                                        <div class="message">make: replace submodule update with reset
+
+This is likely more common action. Also updating submodules
+usually involves updating our patches which can't be automated.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7930789</div>
+                                        <div class="message">make: macroise submodule updates</div>
                                     </div>
                                 </div>
                             </section>
@@ -1791,50 +1927,154 @@ wtf</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 2 commits in
-                                        <span class="repo">Kirdow/jassub</span>
+                                        Pushed 22 commits in
+                                        <span class="repo">ThaUnknown/jassub</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0bfd6eb</div>
-                                        <div class="message">Merge branch 'ThaUnknown:master' into master</div>
+                                        <div class="sha">#18a53fd</div>
+                                        <div class="message">Bump libass
+
+A new version (0.16.0) was released.</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#3 feat: async font loading</span>
+                                    <div class="commit">
+                                        <div class="sha">#d95ddf5</div>
+                                        <div class="message">cosmetic/make: drop superfluous default target make</div>
                                     </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">ThaUnknown/jassub</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#3 feat: async font loading</span>
+                                    <div class="commit">
+                                        <div class="sha">#e2e3158</div>
+                                        <div class="message">cosmetic/make: drop GLOBAL_* variables in favour of only *
+
+The latter is required as it's picked up by buildsystems,
+the former is only used once by us and can easily be replaced
+by the latter.</div>
                                     </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by ThaUnknown in <span class="repo">ThaUnknown/jassub</span></div>
-                                    <div class="comment">https://github.com/ThaUnknown/jassub/commit/b238a6f4c3f55c0a8dd17041ad1fde0088024c9a</div>
+                                    <div class="commit">
+                                        <div class="sha">#e341e1b</div>
+                                        <div class="message">make: put uniform comments before dependency builds</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4370e7b</div>
+                                        <div class="message">cosmetic/make: remove comment with unused flags
+
+They appear to have been commented out since the first public release
+and it's not clear what they were intended for or if they'd even still
+work with current emscripten.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e3e0003</div>
+                                        <div class="message">make: split off license extraction
+
+As an intermediate measure improving build times with multiple jobs
+until the toplevel Makefile can properly handle parallelism.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#89e899a</div>
+                                        <div class="message">make: adjust number of jobs to available threads
+
+Previously some builds used a hardcoded number of 8 and others
+didn't set it at all falling back to a single threaded build.
+
+This still isn't ideal though. What we actually want is to fix up
+or Makefile to allow builders to pass the number of jobs to the toplevel
+and then a buildserver can distribute the available jobs across the
+targets allowing inter-target parallelism.
+For now, this already is a clear improvement.
+
+The fribidi build appears to have a borked dependency on generated
+sources when running from a subdir, which resulted in parallel builds
+sometimes failing. To fix this the relevant header is now generated
+explicitly before other build steps.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#85817b3</div>
+                                        <div class="message">make: macroise configuration
+
+To be more concise and to keep config flags from drifting apart
+(they already varied slightly between submodules).</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0559838</div>
+                                        <div class="message">make: export CFLAGS globally
+
+autoconf and cmake will pick up the variable from the environment.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e88b164</div>
+                                        <div class="message">make: remove superfluous dependency disables
+
+emscripten already sets PKG_CONFIG_LIBDIR preventing non-wasm libraries
+installed in the system to be detected (and it doesn't provide a way for
+us to set _LIBDIR ourselves).</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7823300</div>
+                                        <div class="message">make: export pkg-config path globally</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b91a88e</div>
+                                        <div class="message">make: macroise source setup</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ab214a6</div>
+                                        <div class="message">make: use regular install for brotli
+
+The last released version of brotli we use, blocks the install target
+when building with emscripten, which is why we currently need to
+manually copy files of interest to their installed location.
+This adds complexity and is prone to failure with future changes.
+Upstream no longer blocks installations with emscripten since
+  https://github.com/google/brotli/commit/ce222e317e36aa362e83fc50c7a6226d238e03fd
+from 23.06.2021.
+
+We could just bump the brotli version to latest master, but then our
+already existing patch would need updating and from a quick look
+it appears as if other things changed as well which might not all be
+compatible with our baseline target out of the box. AN eventual new
+release with release notes will hopefully detail the changes in a
+more accessible form.
+As a safe option, just backport the upstream commit as another patch.
+
+We still need to normalise the static library names though.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1ad1434</div>
+                                        <div class="message">make: drop redundant extern for fribidi</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e240038</div>
+                                        <div class="message">make: remove no-op macro define
+
+Possibly it did something in older versions, in current ones only
+the compiler set __EMSCRIPTEN__ macro is used in checks.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cd33db7</div>
+                                        <div class="message">make: disable pthreads in global flags</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2348874</div>
+                                        <div class="message">make: mark non-file targets as .PHONY</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6287102</div>
+                                        <div class="message">cosmetic/make: move server target down
+
+So that all git-* targets are grouped together.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fa25ef0</div>
+                                        <div class="message">make: replace submodule update with reset
+
+This is likely more common action. Also updating submodules
+usually involves updating our patches which can't be automated.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7930789</div>
+                                        <div class="message">make: macroise submodule updates</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -1850,10 +2090,50 @@ wtf</div>
                                     </div>
                                 </div>
                                 <div class="details">
+                                    <div>on branch <span class="code">gh-pages</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#912e9a0</div>
+                                        <div class="message">update</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Kirdow/jassub</span>
+                                    </div>
+                                </div>
+                                <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b238a6f</div>
-                                        <div class="message">feat: async font loading</div>
+                                        <div class="sha">#64e3032</div>
+                                        <div class="message">Update JASSUB.cpp</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Kirdow/jassub</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b97fb27</div>
+                                        <div class="message">Update JASSUB.cpp</div>
                                     </div>
                                 </div>
                             </section>
@@ -2413,7 +2693,7 @@ wtf</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Jun 2022, 12:02:07 (timezone Europe/Warsaw) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 19 Jun 2022, 13:02:00 (timezone Europe/Warsaw) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
