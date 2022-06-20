@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2600" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2576" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            791 Commits
+                            792 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -327,14 +327,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="205.6772587296728" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="205.6772587296728" y="0" width="163.19548601374314" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="368.872744743416" y="0" width="46.33366606380707" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="415.206410807223" y="0" width="32.23170389732006" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="447.43811470454307" y="0" width="5.078215244029503" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="452.51632994857255" y="0" width="4.437539715412539" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="456.9538696639851" y="0" width="1.6854899499103428" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="458.6393596138954" y="0" width="1.360640386104558" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="205.68757285705786" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="205.68757285705786" y="0" width="163.19228474909838" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="368.8798576061563" y="0" width="46.33275717636995" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="415.21261478252626" y="0" width="32.231071635873086" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="447.4436864183993" y="0" width="5.07811562907497" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="452.5218020474743" y="0" width="4.437452668035508" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="456.9592547155098" y="0" width="1.6854568871123603" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="458.6447116026222" y="0" width="1.3552883973778693" height="8" fill="#427819"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1783,6 +1783,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#78df404</div>
+                                        <div class="message">fix: fully get rid of fontconfig</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ThaUnknown/jassub</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#14c2500</div>
                                         <div class="message">test: null fontconfig</div>
                                     </div>
@@ -1854,27 +1874,6 @@ You could use standard, then before compiling JS or even on any commit/PR have a
                                         <code>standard src/worker.js</code>
                                         which will fail the CI which ran it
 see: https://binary-studio.com/2021/12/21/lint-your-project-with-github-actions/ [first good result I found on google]
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#2 feat: get rid of fontconfig</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by ThaUnknown in <span class="repo">ThaUnknown/jassub</span></div>
-                                    <div class="comment">
-                                        libass doesn't care if it doesn't have a fontconfig, but
-                                        <code>ass_add_font</code>
-                                        just flat out does nothing lol
                                     </div>
                                 </div>
                             </section>
@@ -2434,7 +2433,7 @@ see: https://binary-studio.com/2021/12/21/lint-your-project-with-github-actions/
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Jun 2022, 22:02:04 (timezone Europe/Warsaw) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 20 Jun 2022, 23:01:51 (timezone Europe/Warsaw) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
