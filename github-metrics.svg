@@ -1761,6 +1761,169 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 21 commits in
+                                        <span class="repo">ThaUnknown/fs-chunk-store</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ab8e501</div>
+                                        <div class="message">chore(release): 3.0.0
+
+# [3.0.0](https://github.com/webtorrent/fs-chunk-store/compare/v2.0.5...v3.0.0) (2022-03-30)
+
+### Bug Fixes
+
+* remove rimraf ([#16](https://github.com/webtorrent/fs-chunk-store/issues/16)) ([874205b](https://github.com/webtorrent/fs-chunk-store/commit/874205bba91e3a6d55be927fa4dd1b79425e0e58))
+
+### BREAKING CHANGES
+
+* requires node 14+
+
+* remove rimraf
+
+* fix: no package lock
+
+Co-authored-by: Diego Rodríguez Baquero &lt;github@diegorbaquero.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#874205b</div>
+                                        <div class="message">fix: remove rimraf (#16)
+
+BREAKING CHANGES: requires node 14+
+
+* remove rimraf
+
+* fix: no package lock
+
+Co-authored-by: Diego Rodríguez Baquero &lt;github@diegorbaquero.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f3bb694</div>
+                                        <div class="message">chore(deps): update actions/checkout action to v3 (#32)
+
+* chore(deps): update actions/checkout action to v3
+
+* Update ci.yml
+
+* Update release.yml
+
+Co-authored-by: Renovate Bot &lt;bot@renovateapp.com&gt;
+Co-authored-by: Diego Rodríguez Baquero &lt;github@diegorbaquero.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#80c4c18</div>
+                                        <div class="message">chore(release): 2.0.5
+
+## [2.0.5](https://github.com/webtorrent/fs-chunk-store/compare/v2.0.4...v2.0.5) (2022-03-30)
+
+### Bug Fixes
+
+* update links ([20e57ce](https://github.com/webtorrent/fs-chunk-store/commit/20e57cec9eda2ce345401806621eb4075e27ff29))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f531809</div>
+                                        <div class="message">chore(deps): update dependency semantic-release to v19 (#27)
+
+Co-authored-by: Renovate Bot &lt;bot@renovateapp.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#20e57ce</div>
+                                        <div class="message">fix: update links</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#308fb6f</div>
+                                        <div class="message">chore(deps): update dependency tape to v5.5.2 (#30)
+
+Co-authored-by: Renovate Bot &lt;bot@renovateapp.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9f229ec</div>
+                                        <div class="message">chore(deps): update dependency tape to v5.5.1 (#29)
+
+Co-authored-by: Renovate Bot &lt;bot@renovateapp.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#588265b</div>
+                                        <div class="message">chore(deps): update dependency tape to v5.5.0 (#28)
+
+Co-authored-by: Renovate Bot &lt;bot@renovateapp.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8610418</div>
+                                        <div class="message">chore(deps): update dependency tape to v5.4.1 (#26)
+
+Co-authored-by: Renovate Bot &lt;bot@renovateapp.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f535edf</div>
+                                        <div class="message">chore(deps): update dependency tape to v5.4.0 (#25)
+
+Co-authored-by: Renovate Bot &lt;bot@renovateapp.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3d69d32</div>
+                                        <div class="message">chore(deps): update dependency semantic-release to v18.0.1 (#24)
+
+Co-authored-by: Renovate Bot &lt;bot@renovateapp.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ffaf734</div>
+                                        <div class="message">chore(deps): update dependency tape to v5.3.2 (#23)
+
+Co-authored-by: Renovate Bot &lt;bot@renovateapp.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dc56bd9</div>
+                                        <div class="message">chore(deps): update dependency semantic-release to v18 (#21)
+
+Co-authored-by: Renovate Bot &lt;bot@renovateapp.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b437b5e</div>
+                                        <div class="message">chore(deps): pin dependencies (#20)
+
+Co-authored-by: Renovate Bot &lt;bot@renovateapp.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#60f9455</div>
+                                        <div class="message">chore: add renovate config</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a6805f6</div>
+                                        <div class="message">chore(release): 2.0.4
+
+## [2.0.4](https://github.com/feross/fs-chunk-store/compare/v2.0.3...v2.0.4) (2021-10-25)
+
+### Bug Fixes
+
+* delete residual folders by specifying relative file paths ([4a5f1ed](https://github.com/feross/fs-chunk-store/commit/4a5f1ed90232ab0ddfe17b61c1c46dd437eb22f1))</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#88992ba</div>
+                                        <div class="message">Merge pull request #17 from ThaUnknown/master
+
+feat: UID, delete residual folders by specifying relative file paths</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3a24ace</div>
+                                        <div class="message">Merge pull request #18 from feross/ci</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b7ede67</div>
+                                        <div class="message">chore: add semantic release and use GH for CI</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
@@ -1824,148 +1987,6 @@
                                 <div class="details">
                                     <div> in <span class="repo">webtorrent/webtorrent</span></div>
                                     <div>21 files changed <span class="code">++349 --135</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 79 commits in
-                                        <span class="repo">ThaUnknown/webtorrent</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">v2</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#5a08647</div>
-                                        <div class="message">fix(deps): update dependency torrent-discovery to ^9.4.9</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#565a7b4</div>
-                                        <div class="message">chore(deps): update dependency bittorrent-tracker to v9.18.4</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1b10ebf</div>
-                                        <div class="message">chore(deps): update actions/checkout action to v3 (#2270)
-
-Co-authored-by: Renovate Bot &lt;bot@renovateapp.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#99758b8</div>
-                                        <div class="message">chore(deps): update actions/setup-node action to v3 (#2268)
-
-Co-authored-by: Renovate Bot &lt;bot@renovateapp.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#63b0a98</div>
-                                        <div class="message">chore(deps): update actions/stale action to v5 (#2271)
-
-Co-authored-by: Renovate Bot &lt;bot@renovateapp.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eea69af</div>
-                                        <div class="message">chore(release): 1.8.4
-
-## [1.8.4](https://github.com/webtorrent/webtorrent/compare/v1.8.3...v1.8.4) (2022-03-03)
-
-### Bug Fixes
-
-* **deps:** update dependency torrent-discovery to ^9.4.8 ([#2272](https://github.com/webtorrent/webtorrent/issues/2272)) ([aa2fa59](https://github.com/webtorrent/webtorrent/commit/aa2fa59a4c7c166a52ecd9060191b6e695d3c85f))</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#aa2fa59</div>
-                                        <div class="message">fix(deps): update dependency torrent-discovery to ^9.4.8 (#2272)
-
-Co-authored-by: Renovate Bot &lt;bot@renovateapp.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#28f0e21</div>
-                                        <div class="message">chore(release): 1.8.3
-
-## [1.8.3](https://github.com/webtorrent/webtorrent/compare/v1.8.2...v1.8.3) (2022-02-21)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#10329e1</div>
-                                        <div class="message">docs: Added TorQuiX docker webclient, to faq.md (#2262)
-
-* Added TorQuiX docker webclient
-
-* docs: Added TorQuiX docker webclient, to faq.md
-
-Co-authored-by: Mauro Mazzocchetti &lt;m.mazzocchetti@tech4care.it&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#139f9fd</div>
-                                        <div class="message">chore(release): 1.8.2
-
-## [1.8.2](https://github.com/webtorrent/webtorrent/compare/v1.8.1...v1.8.2) (2022-02-17)
-
-### Bug Fixes
-
-* **deps:** update dependency simple-peer to ^9.11.1 ([34df41a](https://github.com/webtorrent/webtorrent/commit/34df41a05438bcb765077187e04ac2d95d74ea74))</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#34df41a</div>
-                                        <div class="message">fix(deps): update dependency simple-peer to ^9.11.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a1d5290</div>
-                                        <div class="message">chore(docs): Remove duplicate config row (#2265)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d605eab</div>
-                                        <div class="message">chore(deps): update dependency tape to v5.5.2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#729f69c</div>
-                                        <div class="message">chore(deps): update dependency tape to v5.5.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#870d79f</div>
-                                        <div class="message">chore(release): 1.8.1
-
-## [1.8.1](https://github.com/webtorrent/webtorrent/compare/v1.8.0...v1.8.1) (2022-02-03)
-
-### Bug Fixes
-
-* going for 1.8.1 ([e39057f](https://github.com/webtorrent/webtorrent/commit/e39057f634a66ce813482f87d2bfa862ebce5737))</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e39057f</div>
-                                        <div class="message">fix: going for 1.8.1</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5cdd5f6</div>
-                                        <div class="message">chore(release): 1.8.0
-
-# [1.8.0](https://github.com/webtorrent/webtorrent/compare/v1.7.4...v1.8.0) (2022-02-03)
-
-### Features
-
-* 1.8.0 fixing ([cac563b](https://github.com/webtorrent/webtorrent/commit/cac563b37d754fc4fa6993717bb6d1077b2bfd62))</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cac563b</div>
-                                        <div class="message">feat: 1.8.0 fixing</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#09919b4</div>
-                                        <div class="message">chore(release): 1.7.4
-
-## [1.7.4](https://github.com/webtorrent/webtorrent/compare/v1.7.3...v1.7.4) (2022-02-03)
-
-### Bug Fixes
-
-* getStreamURL docs ([#2257](https://github.com/webtorrent/webtorrent/issues/2257)) ([69bdd93](https://github.com/webtorrent/webtorrent/commit/69bdd93bdbe64ab9cc2c22e700560ecea02645e2))</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#69bdd93</div>
-                                        <div class="message">fix: getStreamURL docs (#2257)</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -2524,7 +2545,7 @@ Co-authored-by: Mauro Mazzocchetti &lt;m.mazzocchetti@tech4care.it&gt;</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Jun 2022, 19:06:12 (timezone Europe/Warsaw) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 25 Jun 2022, 20:07:07 (timezone Europe/Warsaw) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
