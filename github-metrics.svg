@@ -2434,7 +2434,7 @@ as of now you will need polyfills, and even in webtorrent v2, you'll still need 
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Jul 2022, 17:03:52 (timezone Europe/Warsaw) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 14 Jul 2022, 18:06:40 (timezone Europe/Warsaw) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
