@@ -2099,7 +2099,7 @@ fixes #1</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 68.9k out of 327m repositories</span>
+                                    <span class="gh">ranked 69k out of 327m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 497 stars</div>
                             </div>
@@ -2427,7 +2427,7 @@ fixes #1</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Jul 2022, 21:06:01 (timezone Europe/Warsaw) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 21 Jul 2022, 22:02:51 (timezone Europe/Warsaw) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
