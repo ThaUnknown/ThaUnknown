@@ -2113,7 +2113,7 @@ fix: subtitle errors, worker errors</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 66.3k out of 334m repositories</span>
+                                    <span class="gh">ranked 66.3k out of 335m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 532 stars</div>
                             </div>
@@ -2252,7 +2252,7 @@ fix: subtitle errors, worker errors</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 294k out of 334m repositories</span>
+                                    <span class="gh">ranked 294k out of 335m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 34 times</div>
                             </div>
@@ -2408,7 +2408,7 @@ fix: subtitle errors, worker errors</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Aug 2022, 08:09:24 (timezone Europe/Warsaw) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 19 Aug 2022, 09:03:49 (timezone Europe/Warsaw) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
