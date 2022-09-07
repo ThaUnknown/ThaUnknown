@@ -2136,7 +2136,7 @@ speeds with web peers</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 64k out of 336m repositories</span>
+                                    <span class="gh">ranked 64.1k out of 336m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 558 stars</div>
                             </div>
@@ -2431,7 +2431,7 @@ speeds with web peers</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Sept 2022, 02:34:49 (timezone Europe/Warsaw) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 7 Sept 2022, 05:35:15 (timezone Europe/Warsaw) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
