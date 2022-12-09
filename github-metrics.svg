@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3035" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2752" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1164 Commits
+                            1165 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    242k added, 197k removed
+                                    358k added, 295k removed
                                 </div>
                             </section>
                             <section>
@@ -327,14 +327,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="176.72155187321758" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="176.72155187321758" y="0" width="128.34961530041755" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="305.0711671736351" y="0" width="81.86662015152076" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="386.93778732515585" y="0" width="50.09465299068064" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="437.0324403158365" y="0" width="8.900739810734002" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="445.9331801265705" y="0" width="6.895004053415114" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="452.82818417998567" y="0" width="4.552220081947959" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="457.3804042619336" y="0" width="2.619595738066416" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="176.87296563382307" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="176.87296563382307" y="0" width="128.28101178308887" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="305.1539774169119" y="0" width="81.82286202976043" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="386.9768394466724" y="0" width="50.06787714576303" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="437.0447165924354" y="0" width="8.895982320371337" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="445.94069891280674" y="0" width="6.891318638940342" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="452.8320175517471" y="0" width="4.549786897333069" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="457.38180444908016" y="0" width="2.618195550919848" height="8" fill="#6E4C13"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -561,7 +561,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 52.5 characters per line of code written</li>
+                        <li>Has approximately 52.3 characters per line of code written</li>
                         <li>Mostly pushes code around 01:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -1768,6 +1768,46 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">ThaUnknown/webtorrent</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">fetch</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#397b85c</div>
+                                        <div class="message">perf: drop simple-get</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ThaUnknown/cross-fetch-ponyfill</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#eed3836</div>
+                                        <div class="message">fix: better exports</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">ThaUnknown/uint8-util</span>
                                     </div>
                                 </div>
@@ -2102,174 +2142,6 @@ Signed-off-by: Lakshya Singh &lt;lakshay.singh1108@gmail.com&gt;
 
 Signed-off-by: Lakshya Singh &lt;lakshay.singh1108@gmail.com&gt;
 Co-authored-by: Cas &lt;6506529+ThaUnknown@users.noreply.github.com&gt;</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 10 commits in
-                                        <span class="repo">ThaUnknown/ut_metadata</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">rusha</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#420f8e8</div>
-                                        <div class="message">perf: drop rusha, buffer</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#956c8f2</div>
-                                        <div class="message">chore(release): 4.0.1
-
-## [4.0.1](https://github.com/webtorrent/ut_metadata/compare/v4.0.0...v4.0.1) (2022-12-06)
-
-### Bug Fixes
-
-* **deps:** update dependency bencode to v3 ([#82](https://github.com/webtorrent/ut_metadata/issues/82)) ([7857d8e](https://github.com/webtorrent/ut_metadata/commit/7857d8ed9411f4de00291169fd6e291a380ece7a))</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6d9d7ff</div>
-                                        <div class="message">chore(deps): update dependency bittorrent-protocol to v4 (#83)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7857d8e</div>
-                                        <div class="message">fix(deps): update dependency bencode to v3 (#82)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f140a57</div>
-                                        <div class="message">chore(release): 4.0.0
-
-# [4.0.0](https://github.com/webtorrent/ut_metadata/compare/v3.5.2...v4.0.0) (2022-12-06)
-
-### Features
-
-* esm ([#80](https://github.com/webtorrent/ut_metadata/issues/80)) ([022307e](https://github.com/webtorrent/ut_metadata/commit/022307e09d6a9bc3d2f6b375a414dc0058443295))
-
-### BREAKING CHANGES
-
-* ESM only</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dbc64c8</div>
-                                        <div class="message">chore(deps): update dependency semantic-release to v19.0.5 (#81)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bbeed14</div>
-                                        <div class="message">chore(deps): update webtorrent (#74)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fb64ce9</div>
-                                        <div class="message">chore(deps): update dependency semantic-release to v19.0.3 [security] (#77)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4f6ed44</div>
-                                        <div class="message">chore(deps): update dependency tape to v5.6.1 (#78)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#022307e</div>
-                                        <div class="message">feat: esm (#80)
-
-BREAKING CHANGE: ESM only</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 9 commits in
-                                        <span class="repo">ThaUnknown/ut_metadata</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#956c8f2</div>
-                                        <div class="message">chore(release): 4.0.1
-
-## [4.0.1](https://github.com/webtorrent/ut_metadata/compare/v4.0.0...v4.0.1) (2022-12-06)
-
-### Bug Fixes
-
-* **deps:** update dependency bencode to v3 ([#82](https://github.com/webtorrent/ut_metadata/issues/82)) ([7857d8e](https://github.com/webtorrent/ut_metadata/commit/7857d8ed9411f4de00291169fd6e291a380ece7a))</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6d9d7ff</div>
-                                        <div class="message">chore(deps): update dependency bittorrent-protocol to v4 (#83)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7857d8e</div>
-                                        <div class="message">fix(deps): update dependency bencode to v3 (#82)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f140a57</div>
-                                        <div class="message">chore(release): 4.0.0
-
-# [4.0.0](https://github.com/webtorrent/ut_metadata/compare/v3.5.2...v4.0.0) (2022-12-06)
-
-### Features
-
-* esm ([#80](https://github.com/webtorrent/ut_metadata/issues/80)) ([022307e](https://github.com/webtorrent/ut_metadata/commit/022307e09d6a9bc3d2f6b375a414dc0058443295))
-
-### BREAKING CHANGES
-
-* ESM only</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#dbc64c8</div>
-                                        <div class="message">chore(deps): update dependency semantic-release to v19.0.5 (#81)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bbeed14</div>
-                                        <div class="message">chore(deps): update webtorrent (#74)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fb64ce9</div>
-                                        <div class="message">chore(deps): update dependency semantic-release to v19.0.3 [security] (#77)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4f6ed44</div>
-                                        <div class="message">chore(deps): update dependency tape to v5.6.1 (#78)
-
-Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#022307e</div>
-                                        <div class="message">feat: esm (#80)
-
-BREAKING CHANGE: ESM only</div>
                                     </div>
                                 </div>
                             </section>
@@ -2862,7 +2734,7 @@ BREAKING CHANGE: ESM only</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Dec 2022, 21:02:24 (timezone Europe/Warsaw) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 9 Dec 2022, 22:01:41 (timezone Europe/Warsaw) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
