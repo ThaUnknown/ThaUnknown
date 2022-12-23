@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            955 issue comments
+                            957 issue comments
                         </div>
                     </section>
                     <section>
@@ -171,13 +171,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    884 MB used
+                                    885 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    446k added, 363k removed
+                                    343k added, 308k removed
                                 </div>
                             </section>
                             <section>
@@ -1756,6 +1756,41 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#70 bug: HW Accelerated HEVC decoding leading to inaccurate colors being displayed</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by ThaUnknown in <span class="repo">Alex313031/Thorium</span></div>
+                                    <div class="comment">@Alex313031 seems this was fixed in StaZhu's patches, I don't know exactly when as I wasn't keeping a pulse on this.</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#88 Native support for formats (H265,mpeg2++)</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by mifi in <span class="repo">mifi/lossless-cut</span></div>
+                                    <div class="comment">hate to bear the bad news, but that decoder implementation is incorrect, long story short? the color-space decoding is fucked,
+I went into detail here: https://github.com/Alex313031/Thorium/issues/70</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 1.5a6.491 6.491 0 00-5.285 2.715l1.358 1.358A.25.25 0 013.896 6H.25A.25.25 0 010 5.75V2.104a.25.25 0 01.427-.177l1.216 1.216a8 8 0 0114.315 4.03.748.748 0 01-.668.83.75.75 0 01-.824-.676A6.501 6.501 0 008 1.5zM.712 8.004a.75.75 0 01.822.67 6.501 6.501 0 0011.751 3.111l-1.358-1.358a.25.25 0 01.177-.427h3.646a.25.25 0 01.25.25v3.646a.25.25 0 01-.427.177l-1.216-1.216A8 8 0 01.042 8.827a.75.75 0 01.67-.823zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-6.25a.75.75 0 00-1.5 0v3.5a.75.75 0 001.5 0v-3.5z"/>
                                     </svg>
                                     <div class="content">
@@ -1801,53 +1836,6 @@
 with hindsight BEP46 implementation has it's issues but this isn't about making a new decentralized protocol stack, this is about implementing existing specs, what you're suggesting is changing a spec established as well as IRC to your likings and expecting people to follow suit, and even if all torrent clients implemented it RIGHT NOW, probably &lt;15% of all peers would actually use that implementations because lets face it, people, seedboxes and private trackers rarely update their clients
 I don't understand the WASM stab again, it seems very irrelevant to webtorrent, and it's already been proven that WASM rarely actually makes shit faster when it has to interact with web API's anyways
 again I don't understand the point of you showing an example async import from an http remote, it adds extra error points and makes bundling more annoying, a perfect example is that github imports don't work on IPv6 machines</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#20642 Add an API to enumerate system/installed fonts.</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by tdbender in <span class="repo">electron/electron</span></div>
-                                    <div class="comment">
-                                        <i>@ThaUnknown The FontAccessAPI is definitely available in Electron 22.0.0 (current). It was added in Chromium 103.</i>
-                                        that comment was posted before FontAccessAPI was implemented in electron :^) but yes it works fine now
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#886 Mutable torrents (BEP46)</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by lmatteis in <span class="repo">webtorrent/webtorrent</span></div>
-                                    <div class="comment">
-                                        okay well I just got fed up so I'm shooting as straight as possible:
-@lemanschik honestly I couldn't care less?
-you're a chromium dev which implemented stuff unrelated to webtorrent, which webtorrent doesn't use.... what do you expect me to say here? good for you?
-you know VERY well that TCP/UDP sockets in chromium will never happen because of the security concerns, and I'm fairly sure a proposal was already denied once, and even if they will be implemented, you know very well that webtorrent's peer's will simply have another dependency to use chromium TPC/UDP sockets aka another npm package ;^)
-I understand you're probably well capable of "replacing webtorrent with a browser API" but not only will that not be implemented into chromium, I don't see the need of you just flailing that flag around? you're going I CAN MAKE YOU USELESS IF I WANTED TO.... great?? go do it then?
-the fact that you dislike node modules and don't want them used is.... I mean it has basis, and you're probably not alone, but wanting something, and it actually being accepted and used are 2 different stories, shit look at ESM, in theory it's fantastic and has only upsides from say nodeJS require, yet people don't want to use it because it requires change and a perfect example of that is
-                                        <code>node-fetch</code>
-                                        I'm aware you're probably well capable of helping webtorrent and or improving it, but as of now you're just flailing that flag and I don't really know... expecting people to go "please help us our savior"?, if you like this package, contribute, make a PR, it will get reviewed pretty earnestly [for FOSS], you'll get a nice "thank you" a pat on the back and that's about it, since again this is FOSS, and not the chromium dev you're used to where people expect stuff actually being done
-pretty much nothing you said is useful in regards to implementing BEP46 and I'm honestly struggling to bring out any value in what you're trying to convey, and trust me I'm trying
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -2439,7 +2427,7 @@ pretty much nothing you said is useful in regards to implementing BEP46 and I'm 
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Dec 2022, 16:01:42 (timezone Europe/Warsaw) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 23 Dec 2022, 17:02:56 (timezone Europe/Warsaw) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
