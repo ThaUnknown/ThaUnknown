@@ -2288,7 +2288,7 @@ So I assume for this work gluton would need so somehow create an app like the sh
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 85.7k out of 105m users</span>
+                                    <span class="gh">ranked 85.8k out of 105m users</span>
                                 </div>
                                 <div class="text">Followed by 94 users</div>
                             </div>
@@ -2477,7 +2477,7 @@ So I assume for this work gluton would need so somehow create an app like the sh
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Jan 2023, 12:01:41 (timezone Europe/Warsaw) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 2 Jan 2023, 13:09:16 (timezone Europe/Warsaw) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
