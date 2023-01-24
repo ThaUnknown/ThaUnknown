@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2593" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2919" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}.activity .details&gt;.comment{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-top:6px;border-left:3px solid #777777b2;padding-left:6px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.anilist{display:flex;flex-direction:column;align-items:flex-start;margin-left:28px;margin-top:4px}.anilist .characters{display:flex;flex-wrap:wrap}.anilist .characters img{margin:2px;border-radius:7px}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.token.comment{color:#690}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.margin-bottom{margin-bottom:16px}.no-margin-top{margin-top:0}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.gauge{stroke-linecap:round;fill:none}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars .entry .bottom{margin-bottom:-1rem;line-height:1rem}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .user{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.field.license.details{display:flex;justify-content:space-between}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -171,13 +171,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    908 MB used
+                                    909 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.78m added, 2.70m removed
+                                    2.89m added, 2.77m removed
                                 </div>
                             </section>
                             <section>
@@ -556,12 +556,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 65 commits)</small>
+                    <small class="h-details">(computed from last 68 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 1k characters per line of code written</li>
+                        <li>Has approximately 572.4 characters per line of code written</li>
                         <li>Mostly pushes code around 13:00</li>
                         <li>Mostly active on Sunday</li>
                     </ul>
@@ -1787,6 +1787,580 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
+                                        Pushed 69 commits in
+                                        <span class="repo">ThaUnknown/webtorrent</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1ba3e6c</div>
+                                        <div class="message">Merge pull request #2394 from ThaUnknown/dead-code
+
+fix: dead code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8c3b6cb</div>
+                                        <div class="message">Merge branch 'v2' into dead-code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#46bddf7</div>
+                                        <div class="message">Merge pull request #2393 from ThaUnknown/esm
+
+feat: esm</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2839c7a</div>
+                                        <div class="message">fix: remove dead code</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#98353d9</div>
+                                        <div class="message">feat: esm</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6d7875c</div>
+                                        <div class="message">Merge branch 'master' of https://github.com/webtorrent/webtorrent into v2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#00e1c9f</div>
+                                        <div class="message">feat: use storage (FSA+IDB) instead of memory in browser</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8a2d474</div>
+                                        <div class="message">Merge pull request #2337 from ThaUnknown/server-unify
+
+feat: Unifiy HTTP server and SW renderer.</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2c1b1e9</div>
+                                        <div class="message">docs: inline registration scope</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9ae5f17</div>
+                                        <div class="message">fix: documentation, unity</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a4bc0c3</div>
+                                        <div class="message">fix: standard [whitespace]</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a278102</div>
+                                        <div class="message">update tests, minor fixes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7aeea17</div>
+                                        <div class="message">feat: unify HTTP server and SW renderer</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b858e6c</div>
+                                        <div class="message">chore: merge master into v2 (#2345)
+
+* fix: getStreamURL docs (#2257)
+
+* chore(release): 1.7.4
+
+## [1.7.4](https://github.com/webtorrent/webtorrent/compare/v1.7.3...v1.7.4) (2022-02-03)
+
+### Bug Fixes
+
+* getStreamURL docs ([#2257](https://github.com/webtorrent/webtorrent/issues/2257)) ([69bdd93](https://github.com/webtorrent/webtorrent/commit/69bdd93bdbe64ab9cc2c22e700560ecea02645e2))
+
+* feat: 1.8.0 fixing
+
+* chore(release): 1.8.0
+
+# [1.8.0](https://github.com/webtorrent/webtorrent/compare/v1.7.4...v1.8.0) (2022-02-03)
+
+### Features
+
+* 1.8.0 fixing ([cac563b](https://github.com/webtorrent/webtorrent/commit/cac563b37d754fc4fa6993717bb6d1077b2bfd62))
+
+* fix: going for 1.8.1
+
+* chore(release): 1.8.1
+
+## [1.8.1](https://github.com/webtorrent/webtorrent/compare/v1.8.0...v1.8.1) (2022-02-03)
+
+### Bug Fixes
+
+* going for 1.8.1 ([e39057f](https://github.com/webtorrent/webtorrent/commit/e39057f634a66ce813482f87d2bfa862ebce5737))
+
+* chore(deps): update dependency tape to v5.5.1
+
+* chore(deps): update dependency tape to v5.5.2
+
+* chore(docs): Remove duplicate config row (#2265)
+
+* fix(deps): update dependency simple-peer to ^9.11.1
+
+* chore(release): 1.8.2
+
+## [1.8.2](https://github.com/webtorrent/webtorrent/compare/v1.8.1...v1.8.2) (2022-02-17)
+
+### Bug Fixes
+
+* **deps:** update dependency simple-peer to ^9.11.1 ([34df41a](https://github.com/webtorrent/webtorrent/commit/34df41a05438bcb765077187e04ac2d95d74ea74))
+
+* docs: Added TorQuiX docker webclient, to faq.md (#2262)
+
+* Added TorQuiX docker webclient
+
+* docs: Added TorQuiX docker webclient, to faq.md
+
+Co-authored-by: Mauro Mazzocchetti &lt;m.mazzocchetti@tech4care.it&gt;
+
+* chore(release): 1.8.3
+
+## [1.8.3](https://github.com/webtorrent/webtorrent/compare/v1.8.2...v1.8.3) (2022-02-21)
+
+* fix(deps): update dependency torrent-discovery to ^9.4.8 (#2272)
+
+Co-authored-by: Renovate Bot &lt;bot@renovateapp.com&gt;
+
+* chore(release): 1.8.4
+
+## [1.8.4](https://github.com/webtorrent/webtorrent/compare/v1.8.3...v1.8.4) (2022-03-03)
+
+### Bug Fixes
+
+* **deps:** update dependency torrent-discovery to ^9.4.8 ([#2272](https://github.com/webtorrent/webtorrent/issues/2272)) ([aa2fa59](https://github.com/webtorrent/webtorrent/commit/aa2fa59a4c7c166a52ecd9060191b6e695d3c85f))
+
+* chore(deps): update actions/stale action to v5 (#2271)
+
+Co-authored-by: Renovate Bot &lt;bot@renovateapp.com&gt;
+
+* chore(deps): update actions/setup-node action to v3 (#2268)
+
+Co-authored-by: Renovate Bot &lt;bot@renovateapp.com&gt;
+
+* chore(deps): update actions/checkout action to v3 (#2270)
+
+Co-authored-by: Renovate Bot &lt;bot@renovateapp.com&gt;
+
+* chore(deps): update dependency bittorrent-tracker to v9.18.4
+
+* fix(deps): update dependency torrent-discovery to ^9.4.9
+
+* chore(release): 1.8.5
+
+## [1.8.5](https://github.com/webtorrent/webtorrent/compare/v1.8.4...v1.8.5) (2022-03-06)
+
+### Bug Fixes
+
+* **deps:** update dependency torrent-discovery to ^9.4.9 ([5a08647](https://github.com/webtorrent/webtorrent/commit/5a086471a8499ee41e16b4db20200baa0458d849))
+
+* fix(deps): update dependency create-torrent to ^5.0.2 (#2276)
+
+Co-authored-by: Renovate Bot &lt;bot@renovateapp.com&gt;
+
+* chore(release): 1.8.6
+
+## [1.8.6](https://github.com/webtorrent/webtorrent/compare/v1.8.5...v1.8.6) (2022-03-11)
+
+### Bug Fixes
+
+* **deps:** update dependency create-torrent to ^5.0.2 ([#2276](https://github.com/webtorrent/webtorrent/issues/2276)) ([f389f87](https://github.com/webtorrent/webtorrent/commit/f389f8755de9ef8725adba8163347f7fd65fb069))
+
+* chore(deps): update actions/cache action to v3 (#2281)
+
+* chore(deps): update actions/cache action to v3
+
+* Update release.yml
+
+Co-authored-by: Renovate Bot &lt;bot@renovateapp.com&gt;
+Co-authored-by: Diego Rodríguez Baquero &lt;diego@mothership.com&gt;
+
+* refactor: replace deprecated String.prototype.substr() (#2282)
+
+.substr() is deprecated so we replace it with .slice() which works similarily but isn't deprecated
+
+Signed-off-by: Tobias Speicher &lt;rootcommander@gmail.com&gt;
+
+* chore(deps): update dependency finalhandler to v1.2.0 (#2283)
+
+Co-authored-by: Renovate Bot &lt;bot@renovateapp.com&gt;
+
+* chore(release): 1.8.7
+
+## [1.8.7](https://github.com/webtorrent/webtorrent/compare/v1.8.6...v1.8.7) (2022-03-24)
+
+* fix(deps): update dependency debug to ^4.3.4
+
+* chore(release): 1.8.8
+
+## [1.8.8](https://github.com/webtorrent/webtorrent/compare/v1.8.7...v1.8.8) (2022-03-25)
+
+### Bug Fixes
+
+* **deps:** update dependency debug to ^4.3.4 ([017c488](https://github.com/webtorrent/webtorrent/commit/017c4889ff62d9b74a457fe8cf5d1699686a4754))
+
+* chore(deps): update webtorrent
+
+* fix(deps): update dependency parse-torrent to ^9.1.5
+
+* chore(release): 1.8.9
+
+## [1.8.9](https://github.com/webtorrent/webtorrent/compare/v1.8.8...v1.8.9) (2022-03-26)
+
+### Bug Fixes
+
+* **deps:** update dependency parse-torrent to ^9.1.5 ([650a8c9](https://github.com/webtorrent/webtorrent/commit/650a8c93a68852da8beefd12c28a23ec4e1dc2a4))
+
+* chore(deps): update dependency serve-static to v1.15.0 (#2285)
+
+Co-authored-by: Renovate Bot &lt;bot@renovateapp.com&gt;
+
+* fix: web seed request URLs (#2267)
+
+* fix: web seed request URLs
+
+When adding a multi torrent file (not magnet link) which has only web seeds, the torrent fails to download because webtorrent seems to try to call the wrong URL.
+
+Suppose that we are using the default download path of `/tmp/webtorrent`, and we have a web seed at `https://some-s3-bucket.s3.amazonaws.com/my-torrent` where `my-torrent` contains some nested directory structure like this:
+
+```
+my-torrent/
+    file1.txt
+    file2/
+        file2.txt
+```
+
+Webtorrent will attempt to fetch the following URLs:
+
+```
+https://some-s3-bucket.s3.amazonaws.com/my-torrent//tmp/webtorrent/my-torrent/file1.txt
+https://some-s3-bucket.s3.amazonaws.com/my-torrent//tmp/webtorrent/my-torrent/file2/file2.txt
+```
+
+This is obviously incorrect, but perhaps I'm doing something wrong to cause this. I dug through the code, and it seems that `fs-chunk-store` is [modifying `file.path`](https://github.com/webtorrent/fs-chunk-store/blob/master/index.js#L48) when the [chunk store is created](https://github.com/webtorrent/webtorrent/blob/master/lib/torrent.js#L485). Stripping off the temp path fixes this issue and the download progresses as expected.
+
+* Update lib/webconn.js
+
+Co-authored-by: Diego Rodríguez Baquero &lt;github@diegorbaquero.com&gt;
+
+Co-authored-by: Diego Rodríguez Baquero &lt;github@diegorbaquero.com&gt;
+
+* chore(release): 1.8.10
+
+## [1.8.10](https://github.com/webtorrent/webtorrent/compare/v1.8.9...v1.8.10) (2022-03-27)
+
+### Bug Fixes
+
+* web seed request URLs ([#2267](https://github.com/webtorrent/webtorrent/issues/2267)) ([5b4880a](https://github.com/webtorrent/webtorrent/commit/5b4880aee559b4b8d294503039d07af98b09418c))
+
+* refactor: trigger _onWireWithMetadata after selections are updated (#2103)
+
+Co-authored-by: Diego Rodríguez Baquero &lt;github@diegorbaquero.com&gt;
+
+* chore(release): 1.8.11
+
+## [1.8.11](https://github.com/webtorrent/webtorrent/compare/v1.8.10...v1.8.11) (2022-03-27)
+
+* fix(deps): update dependency bittorrent-protocol to ^3.5.2
+
+* chore(release): 1.8.12
+
+## [1.8.12](https://github.com/webtorrent/webtorrent/compare/v1.8.11...v1.8.12) (2022-03-28)
+
+### Bug Fixes
+
+* **deps:** update dependency bittorrent-protocol to ^3.5.2 ([13fb0d6](https://github.com/webtorrent/webtorrent/commit/13fb0d60df963edb83945c8b040159c560e67368))
+
+* chore: add locking of threads [skip ci]
+
+* fix(deps): update dependency fs-chunk-store to ^2.0.5
+
+* chore(release): 1.8.13
+
+## [1.8.13](https://github.com/webtorrent/webtorrent/compare/v1.8.12...v1.8.13) (2022-03-30)
+
+### Bug Fixes
+
+* **deps:** update dependency fs-chunk-store to ^2.0.5 ([2eef418](https://github.com/webtorrent/webtorrent/commit/2eef41884ffbee8f723ea2846e58756066983a0b))
+
+* chore: every day
+
+* ci: fix failing ci
+
+* chore(deps): update dependency tape to v5.5.3
+
+* chore: standard 17
+
+* fix(deps): update dependency bittorrent-protocol to ^3.5.3 (#2302)
+
+Co-authored-by: Renovate Bot &lt;bot@renovateapp.com&gt;
+
+* fix(deps): update dependency bitfield to ^4.1.0 (#2303)
+
+Co-authored-by: Renovate Bot &lt;bot@renovateapp.com&gt;
+
+* chore(release): 1.8.14
+
+## [1.8.14](https://github.com/webtorrent/webtorrent/compare/v1.8.13...v1.8.14) (2022-04-22)
+
+### Bug Fixes
+
+* **deps:** update dependency bitfield to ^4.1.0 ([#2303](https://github.com/webtorrent/webtorrent/issues/2303)) ([a778522](https://github.com/webtorrent/webtorrent/commit/a7785227d88fbac22a1b627460694b3523833fde))
+* **deps:** update dependency bittorrent-protocol to ^3.5.3 ([#2302](https://github.com/webtorrent/webtorrent/issues/2302)) ([11f9426](https://github.com/webtorrent/webtorrent/commit/11f9426ee9ef3b800ac978afa5082809eb87c545))
+
+* docs: replace `git.io` link with the actual URL (#2305)
+
+* chore(release): 1.8.15
+
+## [1.8.15](https://github.com/webtorrent/webtorrent/compare/v1.8.14...v1.8.15) (2022-04-26)
+
+* fix(deps): update dependency bittorrent-protocol to ^3.5.5
+
+* chore(release): 1.8.16
+
+## [1.8.16](https://github.com/webtorrent/webtorrent/compare/v1.8.15...v1.8.16) (2022-04-28)
+
+### Bug Fixes
+
+* **deps:** update dependency bittorrent-protocol to ^3.5.5 ([3522080](https://github.com/webtorrent/webtorrent/commit/35220804054c5369b5e88a39411125f0273b2adc))
+
+* chore(docs): add miru, haven torrent client (#2312)
+
+* chore(deps): update dependency babel-minify to v0.5.2 (#2313)
+
+Co-authored-by: Renovate Bot &lt;bot@renovateapp.com&gt;
+
+* chore(deps): update github/codeql-action action to v2 (#2304)
+
+Co-authored-by: Renovate Bot &lt;bot@renovateapp.com&gt;
+
+* fix: measure transfer rates without using timeouts (#2314)
+
+* chore(release): 1.8.17
+
+## [1.8.17](https://github.com/webtorrent/webtorrent/compare/v1.8.16...v1.8.17) (2022-05-11)
+
+### Bug Fixes
+
+* measure transfer rates without using timeouts ([#2314](https://github.com/webtorrent/webtorrent/issues/2314)) ([522ee4c](https://github.com/webtorrent/webtorrent/commit/522ee4cd14d3b41e92c3978e9816cb66e00233f0))
+
+* fix(deps): update dependency bittorrent-tracker to v9.18.6 (#2315)
+
+Co-authored-by: Renovate Bot &lt;bot@renovateapp.com&gt;
+
+* chore(release): 1.8.18
+
+## [1.8.18](https://github.com/webtorrent/webtorrent/compare/v1.8.17...v1.8.18) (2022-05-11)
+
+### Bug Fixes
+
+* **deps:** update dependency bittorrent-tracker to v9.18.6 ([#2315](https://github.com/webtorrent/webtorrent/issues/2315)) ([b63d652](https://github.com/webtorrent/webtorrent/commit/b63d652229c4cf55a4eebbe95c98a62716bcc377))
+
+* docs: Updated TorQuiX with new name CrawFish and updated link reference, to faq.md (#2316) [skip ci]
+
+* Added TorQuiX docker webclient
+
+* docs: Added TorQuiX docker webclient, to faq.md
+
+* docs: Updated TorQuiX with new name CrawFish and updated link reference, to faq.md
+
+Co-authored-by: Mauro Mazzocchetti &lt;m.mazzocchetti@tech4care.it&gt;
+
+* chore(docs): add Niwder cloud torrent platform (#2317) [skip ci]
+
+Co-authored-by: Diego Rodríguez Baquero &lt;github@diegorbaquero.com&gt;
+
+* fix(deps): update dependency torrent-discovery to ^9.4.12
+
+* chore(release): 1.8.19
+
+## [1.8.19](https://github.com/webtorrent/webtorrent/compare/v1.8.18...v1.8.19) (2022-05-11)
+
+### Bug Fixes
+
+* **deps:** update dependency torrent-discovery to ^9.4.12 ([36e931a](https://github.com/webtorrent/webtorrent/commit/36e931aff5e44fc5aa298a6166bfe7b4e1560499))
+
+* fix(deps): update dependency bittorrent-dht to ^10.0.3 (#2320)
+
+Co-authored-by: Renovate Bot &lt;bot@renovateapp.com&gt;
+
+* chore(release): 1.8.20
+
+## [1.8.20](https://github.com/webtorrent/webtorrent/compare/v1.8.19...v1.8.20) (2022-05-14)
+
+### Bug Fixes
+
+* **deps:** update dependency bittorrent-dht to ^10.0.3 ([#2320](https://github.com/webtorrent/webtorrent/issues/2320)) ([2ebbd8e](https://github.com/webtorrent/webtorrent/commit/2ebbd8eacfd0d7778357ca0f44ead331ba439a26))
+
+* fix(deps): update dependency throughput to ^1.0.1 (#2321)
+
+Co-authored-by: Renovate Bot &lt;bot@renovateapp.com&gt;
+
+* chore(release): 1.8.21
+
+## [1.8.21](https://github.com/webtorrent/webtorrent/compare/v1.8.20...v1.8.21) (2022-05-23)
+
+### Bug Fixes
+
+* **deps:** update dependency throughput to ^1.0.1 ([#2321](https://github.com/webtorrent/webtorrent/issues/2321)) ([d53d95e](https://github.com/webtorrent/webtorrent/commit/d53d95e1ed75a288cea706d65fb660f2be3a02a0))
+
+* fix(deps): update dependency bittorrent-dht to ^10.0.4
+
+* chore(release): 1.8.22
+
+## [1.8.22](https://github.com/webtorrent/webtorrent/compare/v1.8.21...v1.8.22) (2022-05-24)
+
+### Bug Fixes
+
+* **deps:** update dependency bittorrent-dht to ^10.0.4 ([327d723](https://github.com/webtorrent/webtorrent/commit/327d7234a85f38bf8d397e41875a5603a8d175d1))
+
+* chore(deps): update dependency bittorrent-tracker to v9.19.0
+
+* chore(deps): update dependency semantic-release to v19.0.3 [security]
+
+* sponsor
+
+* fix(deps): update dependency torrent-discovery to ^9.4.13
+
+* chore(release): 1.8.23
+
+## [1.8.23](https://github.com/webtorrent/webtorrent/compare/v1.8.22...v1.8.23) (2022-06-23)
+
+### Bug Fixes
+
+* **deps:** update dependency torrent-discovery to ^9.4.13 ([1e3373a](https://github.com/webtorrent/webtorrent/commit/1e3373ab9e6dd16e5b10a2e32988386615f6cf28))
+
+* fix: support stream cancelling (#2335)
+
+* chore(release): 1.8.24
+
+## [1.8.24](https://github.com/webtorrent/webtorrent/compare/v1.8.23...v1.8.24) (2022-06-23)
+
+### Bug Fixes
+
+* support stream cancelling ([#2335](https://github.com/webtorrent/webtorrent/issues/2335)) ([2e4f91f](https://github.com/webtorrent/webtorrent/commit/2e4f91f668ea867d768291e9efd3e1c1eb825b97))
+
+Co-authored-by: Cas &lt;6506529+ThaUnknown@users.noreply.github.com&gt;
+Co-authored-by: semantic-release-bot &lt;semantic-release-bot@martynus.net&gt;
+Co-authored-by: Diego Rodríguez Baquero &lt;diego@mothership.com&gt;
+Co-authored-by: Renovate Bot &lt;bot@renovateapp.com&gt;
+Co-authored-by: Artak Safaryan &lt;32634773+holoyan@users.noreply.github.com&gt;
+Co-authored-by: Drakonkat &lt;adamo.mazzocchetti@gmail.com&gt;
+Co-authored-by: Mauro Mazzocchetti &lt;m.mazzocchetti@tech4care.it&gt;
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;
+Co-authored-by: CommanderRoot &lt;CommanderRoot@users.noreply.github.com&gt;
+Co-authored-by: Justin Lewis Salmon &lt;jlsalmon@users.noreply.github.com&gt;
+Co-authored-by: Alex &lt;alxmorais8@msn.com&gt;
+Co-authored-by: Sukka &lt;isukkaw@gmail.com&gt;
+Co-authored-by: Nipuna Weerasekara &lt;w.nipuna@gmail.com&gt;
+Co-authored-by: Feross Aboukhadijeh &lt;feross@feross.org&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8b5ecea</div>
+                                        <div class="message">fix: deprecate render-media (#2180)
+
+* fix: deprecate render-media
+
+* chore: update docs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0ab745f</div>
+                                        <div class="message">Merge pull request #2259 from webtorrent/master
+
+Rebase into v2</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1be0c85</div>
+                                        <div class="message">Merge branch 'v2' into master</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4745739</div>
+                                        <div class="message">feat: rescan of torrent should get all (in)valid events (#1903)
+
+* rescan of torrent should get all (in)valid events
+
+* code review
+
+* code review
+
+* Apply suggestions from code review
+
+Co-authored-by: Diego Rodríguez Baquero &lt;github@diegorbaquero.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a512d5c</div>
+                                        <div class="message">Merge master to v2 (#2147)
+
+* ci: fix CacheStore already closed
+
+* chore(deps): update dependency bittorrent-tracker to v9.17.4 (#2144)
+
+Co-authored-by: Renovate Bot &lt;bot@renovateapp.com&gt;
+
+Co-authored-by: renovate[bot] &lt;29139614+renovate[bot]@users.noreply.github.com&gt;
+Co-authored-by: Renovate Bot &lt;bot@renovateapp.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6483bea</div>
+                                        <div class="message">refactor: change behaviour of `noPeers` event (#2142)
+
+* Change behaviour of noPeers event
+
+* Fix docs
+
+* Add changes based on PR feedback
+
+* Fix noPeersIntervalTime to seconds
+
+Co-authored-by: Diego Rodríguez Baquero &lt;github@diegorbaquero.com&gt;
+
+Co-authored-by: Diego Rodríguez Baquero &lt;github@diegorbaquero.com&gt;</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">ThaUnknown/parse-torrent</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">drop-simple-get</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c03884a</div>
+                                        <div class="message">Merge branch 'master' into drop-simple-get</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 8 commits in
+                                        <span class="repo">ThaUnknown/webtorrent</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">fetch</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b8f33c0</div>
+                                        <div class="message">Merge branch 'master' into fetch</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
                                         Pushed 1 commit in
                                         <span class="repo">ThaUnknown/episodescrape</span>
                                     </div>
@@ -1817,57 +2391,6 @@
                                         <div class="sha">#cc7ed9f</div>
                                         <div class="message">sync</div>
                                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#248 [Bug]: NieR has no episodes</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by xTheEc0 in <span class="repo">ThaUnknown/miru</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#248 [Bug]: NieR has no episodes</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by xTheEc0 in <span class="repo">ThaUnknown/miru</span></div>
-                                    <div class="comment">yeah this is an anilist bug that I can't do anything about, as nier doesn't have a count of total episodes, and doesn't have any planed episodes so I can't know how many episodes it actually has</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#249 [Feature Request]: Better text selection</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Temanor in <span class="repo">ThaUnknown/miru</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2270,7 +2793,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 225k out of 371m repositories</span>
+                                    <span class="gh">ranked 212k out of 371m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 48 times</div>
                             </div>
@@ -2459,7 +2982,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Jan 2023, 22:01:51 (timezone Europe/Warsaw) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 24 Jan 2023, 23:01:38 (timezone Europe/Warsaw) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
