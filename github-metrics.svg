@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2608" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2631" class="">
     <defs>
         <style/>
     </defs>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            1096 issue comments
+                            1097 issue comments
                         </div>
                     </section>
                     <section>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.88m added, 2.78m removed
+                                    277k added, 230k removed
                                 </div>
                             </section>
                             <section>
@@ -1799,6 +1799,23 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by ThibaultNocchi in <span class="repo">ThaUnknown/jassub</span></div>
+                                    <div class="comment">yeah that's fair, honestly I don't know what's the best way to solve this issue, I've never really seen or used any libraries which used workers so I don't really know what's the "go-to" for this kind of thing</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#20 [Feature Request] Having a parameter to set the WASM URL</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by ThibaultNocchi in <span class="repo">ThaUnknown/jassub</span></div>
                                     <div class="comment">because you need to modify a lot in the emscripten build steps to keep the same "entry level" aka keep browser requirements low and be able to modify the path, and hate to break it to you but even with a custom path even if you magically change the WASM file during your development which is stupidly unlikely, it won't actually change the WASM, and EVEN IF you provided a custom path you'd still need to static copy the .wasm but with the hash...
 WASM isn't really a problem in not counting it towards the bundle size stats and it really shouldnt be</div>
                                 </div>
@@ -1854,26 +1871,6 @@ WASM isn't really a problem in not counting it towards the bundle size stats and
                                     <div class="commit">
                                         <div class="sha">#bcc4f87</div>
                                         <div class="message">chore: update jassub</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 11 commits in
-                                        <span class="repo">ThaUnknown/jellyfin-web</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">jassub</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8aa8889</div>
-                                        <div class="message">Merge branch 'master' into jassub</div>
                                     </div>
                                 </div>
                             </section>
@@ -2179,7 +2176,7 @@ WASM isn't really a problem in not counting it towards the bundle size stats and
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 50.2k out of 382m repositories</span>
+                                    <span class="gh">ranked 50.1k out of 382m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 781 stars</div>
                             </div>
@@ -2435,7 +2432,7 @@ WASM isn't really a problem in not counting it towards the bundle size stats and
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Mar 2023, 01:32:04 (timezone Europe/Warsaw) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 7 Mar 2023, 03:23:19 (timezone Europe/Warsaw) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
