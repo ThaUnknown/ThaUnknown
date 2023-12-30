@@ -2138,7 +2138,7 @@ this issue happens when the error/success has more lines than the pending text, 
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 32.7k out of 62.1m repositories</span>
+                                    <span class="gh">ranked 32.7k out of 61.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1402 stars</div>
                             </div>
@@ -2271,7 +2271,7 @@ this issue happens when the error/success has more lines than the pending text, 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 150k out of 62.1m repositories</span>
+                                    <span class="gh">ranked 150k out of 61.8m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 83 times</div>
                             </div>
@@ -2464,7 +2464,7 @@ this issue happens when the error/success has more lines than the pending text, 
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Dec 2023, 13:08:48 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Dec 2023, 14:03:40 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
