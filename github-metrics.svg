@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2608" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2568" class="">
     <defs>
         <style/>
     </defs>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2732 Commits
+                            2733 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -159,7 +159,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
-                                    256 Releases
+                                    257 Releases
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    477k added, 313k removed
+                                    2.79m added, 2.69m removed
                                 </div>
                             </section>
                             <section>
@@ -327,14 +327,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="221.08737427234976" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="221.08737427234976" y="0" width="105.84238697400613" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="326.9297612463559" y="0" width="104.43479972628164" height="8" fill="#ff3e00"/>
-                    <rect mask="url(#languages-bar)" x="431.3645609726375" y="0" width="9.256367232538738" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="440.62092820517626" y="0" width="7.0559341576130254" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="447.6768623627893" y="0" width="6.474938835197181" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="454.15180119798646" y="0" width="3.7120707918146967" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="457.8638719898011" y="0" width="2.1361280101988207" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="221.14695819512255" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="221.14695819512255" y="0" width="105.81366533525271" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="326.96062353037524" y="0" width="104.4117080222615" height="8" fill="#ff3e00"/>
+                    <rect mask="url(#languages-bar)" x="431.37233155263675" y="0" width="9.253855402983275" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="440.62618695562" y="0" width="7.0540194427456" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="447.68020639836567" y="0" width="6.473181780585206" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="454.1533881789509" y="0" width="3.711063475564962" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="457.86445165451585" y="0" width="2.1355483454842004" height="8" fill="#6E4C13"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -577,7 +577,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 41.4 characters per line of code written</li>
+                        <li>Has approximately 41.3 characters per line of code written</li>
                         <li>Mostly pushes code around 22:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -1787,6 +1787,44 @@
                                     <div class="content">
                                         Created new
                       tag
+                                        <span class="code">v5.0.2</span>
+                                        in
+                                        <span class="repo">ThaUnknown/miru</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">ThaUnknown/miru</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#92e5207</div>
+                                        <div class="message">fix: batch resolves in 50 elements at once
+fix: don't run AL when not necessary
+fix: reduce compound variable count</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Created new
+                      tag
                                         <span class="code">v5.0.1</span>
                                         in
                                         <span class="repo">ThaUnknown/miru</span>
@@ -1830,40 +1868,6 @@ feat: use AL media cache in resolver</div>
                                 <div class="details">
                                     <div>opened by YoruNoKen in <span class="repo">ThaUnknown/miru</span></div>
                                     <div class="comment">this is an issue with your specific linux install, not miru, since it's your config that's causing issues, fix it yourself, the issue i linked talks about similar issues, either do that, or use what miru provides for sign-in</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#434 [Bug]: Cannot link AniList account on Linux</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by YoruNoKen in <span class="repo">ThaUnknown/miru</span></div>
-                                    <div class="comment">https://github.com/ThaUnknown/miru/issues/153#issuecomment-2015698234</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
-                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Closed
-                                        <span class="issue">#434 [Bug]: Cannot link AniList account on Linux</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by YoruNoKen in <span class="repo">ThaUnknown/miru</span></div>
                                 </div>
                             </section>
                         </div>
@@ -2133,7 +2137,7 @@ feat: use AL media cache in resolver</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 28.2k out of 103m repositories</span>
+                                    <span class="gh">ranked 28.2k out of 91.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1672 stars</div>
                             </div>
@@ -2266,7 +2270,7 @@ feat: use AL media cache in resolver</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 131k out of 103m repositories</span>
+                                    <span class="gh">ranked 131k out of 91.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 96 times</div>
                             </div>
@@ -2459,7 +2463,7 @@ feat: use AL media cache in resolver</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Mar 2024, 21:02:09 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Mar 2024, 22:01:38 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
