@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2675" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2691" class="">
     <defs>
         <style/>
     </defs>
@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            1692 issue comments
+                            1693 issue comments
                         </div>
                     </section>
                     <section>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    91.9k added, 24k removed
+                                    2.87m added, 2.77m removed
                                 </div>
                             </section>
                             <section>
@@ -191,7 +191,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    2084 Stargazers
+                                    2085 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1644,62 +1644,62 @@
                             </div>
                             <div class="entry">
                                 <span class="value">2.05k</span>
-                                <div class="bar" style="height: 5.294117647058823px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 5.214285714285714px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 14
                             </div>
                             <div class="entry">
                                 <span class="value">2.06k</span>
-                                <div class="bar" style="height: 9.485294117647058px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 9.285714285714286px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 15
                             </div>
                             <div class="entry">
                                 <span class="value">2.06k</span>
-                                <div class="bar" style="height: 13.676470588235293px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 13.357142857142856px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 16
                             </div>
                             <div class="entry">
                                 <span class="value">2.06k</span>
-                                <div class="bar" style="height: 16.470588235294116px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 16.07142857142857px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 17
                             </div>
                             <div class="entry">
                                 <span class="value">2.06k</span>
-                                <div class="bar" style="height: 17.867647058823525px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 17.428571428571427px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 18
                             </div>
                             <div class="entry">
                                 <span class="value">2.06k</span>
-                                <div class="bar" style="height: 20.66176470588235px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 20.142857142857142px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 19
                             </div>
                             <div class="entry">
                                 <span class="value">2.07k</span>
-                                <div class="bar" style="height: 26.25px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 25.571428571428573px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 20
                             </div>
                             <div class="entry">
                                 <span class="value">2.07k</span>
-                                <div class="bar" style="height: 30.44117647058824px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 29.642857142857142px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 21
                             </div>
                             <div class="entry">
                                 <span class="value">2.07k</span>
-                                <div class="bar" style="height: 33.23529411764706px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 32.357142857142854px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 22
                             </div>
                             <div class="entry">
                                 <span class="value">2.08k</span>
-                                <div class="bar" style="height: 37.4264705882353px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 36.42857142857143px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 23
                             </div>
                             <div class="entry">
                                 <span class="value">2.08k</span>
-                                <div class="bar" style="height: 40.220588235294116px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 39.14285714285714px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 24
                             </div>
                             <div class="entry">
                                 <span class="value">2.08k</span>
-                                <div class="bar" style="height: 45.80882352941177px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 44.57142857142857px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 25
                             </div>
                             <div class="entry">
@@ -1779,8 +1779,8 @@
                                 25
                             </div>
                             <div class="entry">
-                                <span class="value">+3</span>
-                                <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">+4</span>
+                                <div class="bar" style="height: 40px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 26
                             </div>
                         </div>
@@ -1796,6 +1796,23 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#2757 Refactor selections with non-overlapping data structure</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by detarkende in <span class="repo">webtorrent/webtorrent</span></div>
+                                    <div class="comment">you can fix that, by re-writing this to use byte ranges internally, not pieces :)</div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -1870,23 +1887,6 @@ I wouldn't work on types, webtorrent needs to be re-written to use async/await i
                                 </div>
                                 <div class="details">
                                     <div>opened by detarkende in <span class="repo">webtorrent/webtorrent</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#164 file.deselect supposedly not working</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by feross in <span class="repo">webtorrent/webtorrent</span></div>
-                                    <div class="comment">#2757</div>
                                 </div>
                             </section>
                         </div>
@@ -2156,7 +2156,7 @@ I wouldn't work on types, webtorrent needs to be re-written to use async/await i
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 28.2k out of 94.8m repositories</span>
+                                    <span class="gh">ranked 28.2k out of 90m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 1674 stars</div>
                             </div>
@@ -2289,7 +2289,7 @@ I wouldn't work on types, webtorrent needs to be re-written to use async/await i
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 131k out of 94.8m repositories</span>
+                                    <span class="gh">ranked 131k out of 90m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 96 times</div>
                             </div>
@@ -2482,7 +2482,7 @@ I wouldn't work on types, webtorrent needs to be re-written to use async/await i
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Mar 2024, 16:02:17 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Mar 2024, 17:01:43 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
