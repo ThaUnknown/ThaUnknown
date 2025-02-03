@@ -2032,7 +2032,7 @@ fix: remove support check [extension is chrome only, so no ff check required]</d
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 17.7k out of 238m repositories</span>
+                                    <span class="gh">ranked 17.7k out of 237m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 2909 stars</div>
                             </div>
@@ -2277,7 +2277,7 @@ fix: remove support check [extension is chrome only, so no ff check required]</d
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Feb 2025, 20:08:36 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Feb 2025, 21:11:27 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
