@@ -1995,7 +1995,7 @@ wip: trace anime</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="78.895 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="78.93375 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -2020,7 +2020,7 @@ wip: trace anime</div>
                                     maintainer
                                     <span class="gh">ranked 17.3k out of 244m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 3036 stars</div>
+                                <div class="text">Maintaining a repository with 3037 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -2363,7 +2363,7 @@ wip: trace anime</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Mar 2025, 08:11:32 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Mar 2025, 09:14:48 (timezone Europe/Warsaw) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
